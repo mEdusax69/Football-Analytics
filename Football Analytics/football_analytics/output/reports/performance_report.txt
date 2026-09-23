@@ -1,0 +1,97 @@
+FOOTBALL PLAYER PERFORMANCE ANALYTICS -- SUMMARY REPORT
+Generated: 2026-07-28 13:13:02
+============================================================
+
+TOP 10 SCORERS
+------------------------------
+    player_name              team position  goals  matches_played  goals_per_match
+  Tariq Pereira       Inter Milan  Forward     25              27            0.926
+   Adrian Rossi       Real Madrid  Forward     21              34            0.618
+   Adrian Kovac           Unknown  Forward     19              31            0.613
+   Rico Morales            Napoli  Forward     19              30            0.633
+     Leo Santos   Atletico Madrid  Forward     19              31            0.613
+     Noah Weber   Atletico Madrid  Forward     18              28            0.643
+ Yusuf Nakamura       Inter Milan  Forward     18              24            0.750
+Gabriel Adeyemi         Liverpool  Forward     17              23            0.739
+  Tariq Morales Borussia Dortmund  Forward     17              27            0.630
+    Jude Okafor           Unknown  Forward     16              30            0.533
+
+TOP 10 RATED PLAYERS
+------------------------------
+   player_name            team   position  rating performance_tier
+Lucas Nakamura       Liverpool Goalkeeper    8.21            Elite
+  Malik Diallo Atletico Madrid    Forward    8.14            Elite
+    Jude Costa          Napoli    Forward    8.11            Elite
+    Hugo Weber     Real Madrid   Defender    8.03            Elite
+  Malik Muller       Liverpool   Defender    8.00            Elite
+  Bruno Okafor         Arsenal Midfielder    7.90        Excellent
+  Malik Dubois     Inter Milan Midfielder    7.89        Excellent
+ Nico Nakamura       Liverpool   Defender    7.82        Excellent
+  Malik Garcia Atletico Madrid Midfielder    7.82        Excellent
+  Adrian Rossi     Real Madrid    Forward    7.78        Excellent
+
+TEAM SUMMARY
+------------------------------
+             team  squad_size  avg_rating  total_goals  total_assists  avg_market_value_m  total_squad_value_m
+         Paris SG          10        7.08           40             27                15.6                156.2
+          Chelsea           9        7.04           30             31                22.7                204.2
+  Manchester City          19        7.00           43             67                12.9                244.4
+          Unknown           7        6.94           62             21                27.6                193.0
+      Inter Milan          12        6.91          108             42                26.9                322.6
+        Liverpool          21        6.89           78             59                17.3                362.8
+           Napoli          14        6.81           53             35                15.4                215.2
+      Real Madrid          16        6.74           72             91                16.3                260.7
+Borussia Dortmund          10        6.74           44             38                26.4                263.5
+          Arsenal          17        6.73           61             99                15.4                262.3
+  Atletico Madrid          15        6.66          115             32                18.4                276.3
+        Barcelona          13        6.60           14             42                13.7                177.6
+    Bayern Munich          17        6.55           84             76                25.0                425.3
+
+POSITION SUMMARY
+------------------------------
+  position  num_players  avg_rating  avg_pass_accuracy  avg_distance_km
+Midfielder           62        6.82               81.8            10.30
+   Forward           52        6.81               83.7            10.21
+  Defender           51        6.81               83.2            10.30
+Goalkeeper           15        6.73               82.1             9.98
+
+DISCIPLINARY WATCHLIST
+------------------------------
+    player_name              team   position  yellow_cards  red_cards  disciplinary_points
+    Felix Kovac         Liverpool Midfielder             8          0                    8
+    Omar Dubois           Arsenal Goalkeeper             6          1                    8
+    Kevin Silva           Arsenal Midfielder             6          1                    8
+     Enzo Silva Borussia Dortmund Midfielder             7          0                    7
+ Jude Fernandez Borussia Dortmund Midfielder             7          0                    7
+   Adrian Rossi       Real Madrid    Forward             7          0                    7
+    Owen Garcia   Manchester City Midfielder             7          0                    7
+ Rafael Adeyemi       Real Madrid    Forward             7          0                    7
+     Leo Santos   Atletico Madrid    Forward             6          0                    6
+    Felix Rossi     Bayern Munich Midfielder             6          0                    6
+ Victor Pereira         Liverpool    Forward             6          0                    6
+Mateo Fernandez          Paris SG    Forward             4          1                    6
+Kevin Fernandez     Bayern Munich Midfielder             6          0                    6
+ Tariq Nakamura       Real Madrid Midfielder             6          0                    6
+  Pablo Larsson           Chelsea Midfielder             4          1                    6
+   Rico Larsson     Bayern Munich Midfielder             6          0                    6
+ Rafael Morales         Liverpool   Defender             6          0                    6
+    Felix Weber         Barcelona   Defender             6          0                    6
+
+UNDERVALUED TALENTS (rating >= 7.2)
+------------------------------
+    player_name            team   position  rating  market_value_million_eur
+    Theo Ivanov Manchester City Midfielder    7.49                       2.8
+   Malik Muller       Liverpool   Defender    8.00                       3.3
+     Hugo Weber     Real Madrid   Defender    8.03                       3.9
+    Omar Okafor         Chelsea Midfielder    7.75                       4.2
+ Samuel Larsson         Chelsea Midfielder    7.67                       4.4
+      Nico Haas Manchester City   Defender    7.58                       4.8
+  Elias Morales       Liverpool   Defender    7.21                       5.2
+  Pablo Morales       Liverpool Goalkeeper    7.45                       5.8
+   Theo Larsson        Paris SG   Defender    7.48                       6.2
+Felix Fernandez     Inter Milan    Forward    7.23                       6.7
+    Noah Dubois          Napoli Midfielder    7.71                       7.9
+   Adrian Rossi     Real Madrid    Forward    7.78                       9.1
+    Theo Santos       Barcelona    Forward    7.78                       9.1
+  Nico Nakamura       Liverpool   Defender    7.82                       9.5
+      Owen Haas Manchester City   Defender    7.44                       9.5

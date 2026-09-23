@@ -1,0 +1,3422 @@
+{
+  "player:129": {
+    "identity": {
+      "name": "Elias Pereira",
+      "team": "Bayern Munich",
+      "position": "Defender",
+      "age": 24
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 1,
+      "rating": 7.47,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.42,
+      "sprint_speed_kmh": 30.5,
+      "pass_accuracy": 84.8
+    }
+  },
+  "player:140": {
+    "identity": {
+      "name": "Tariq Fernandez",
+      "team": "Liverpool",
+      "position": "Forward",
+      "age": 21
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 4,
+      "rating": 6.92,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 12.32,
+      "sprint_speed_kmh": 27.4,
+      "pass_accuracy": 81.1
+    }
+  },
+  "player:79": {
+    "identity": {
+      "name": "Leo Fernandez",
+      "team": "Real Madrid",
+      "position": "Midfielder",
+      "age": 26
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 7,
+      "rating": 5.87,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.2,
+      "sprint_speed_kmh": 29.5,
+      "pass_accuracy": 74.3
+    }
+  },
+  "player:107": {
+    "identity": {
+      "name": "Diego Santos",
+      "team": "Inter Milan",
+      "position": "Midfielder",
+      "age": 31
+    },
+    "performance": {
+      "goals": 9,
+      "assists": 0,
+      "rating": 6.56,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.06,
+      "sprint_speed_kmh": 34.1,
+      "pass_accuracy": 90.7
+    }
+  },
+  "player:134": {
+    "identity": {
+      "name": "Omar Okafor",
+      "team": "Chelsea",
+      "position": "Midfielder",
+      "age": 24
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 11,
+      "rating": 7.75,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.34,
+      "sprint_speed_kmh": 30.1,
+      "pass_accuracy": 73.2
+    }
+  },
+  "player:23": {
+    "identity": {
+      "name": "Jude Costa",
+      "team": "Napoli",
+      "position": "Forward",
+      "age": 21
+    },
+    "performance": {
+      "goals": 2,
+      "assists": 1,
+      "rating": 8.11,
+      "performance_tier": "Elite"
+    },
+    "physical": {
+      "distance_covered_km": 10.3,
+      "sprint_speed_kmh": 33.5,
+      "pass_accuracy": 85.2
+    }
+  },
+  "player:66": {
+    "identity": {
+      "name": "Malik Muller",
+      "team": "Liverpool",
+      "position": "Defender",
+      "age": 22
+    },
+    "performance": {
+      "goals": 2,
+      "assists": 1,
+      "rating": 8.0,
+      "performance_tier": "Elite"
+    },
+    "physical": {
+      "distance_covered_km": 11.42,
+      "sprint_speed_kmh": 26.3,
+      "pass_accuracy": 88.5
+    }
+  },
+  "player:25": {
+    "identity": {
+      "name": "Noah Dubois",
+      "team": "Napoli",
+      "position": "Midfielder",
+      "age": 27
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 0,
+      "rating": 7.71,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.04,
+      "sprint_speed_kmh": 34.1,
+      "pass_accuracy": 91.5
+    }
+  },
+  "player:113": {
+    "identity": {
+      "name": "Ivan Adeyemi",
+      "team": "Arsenal",
+      "position": "Defender",
+      "age": 19
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 3,
+      "rating": 6.96,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.16,
+      "sprint_speed_kmh": 30.2,
+      "pass_accuracy": 82.6
+    }
+  },
+  "player:75": {
+    "identity": {
+      "name": "Theo Dubois",
+      "team": "Arsenal",
+      "position": "Forward",
+      "age": 21
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 3,
+      "rating": 6.7,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.65,
+      "sprint_speed_kmh": 31.4,
+      "pass_accuracy": 75.1
+    }
+  },
+  "player:33": {
+    "identity": {
+      "name": "Owen Costa",
+      "team": "Bayern Munich",
+      "position": "Forward",
+      "age": 17
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 5,
+      "rating": 6.4,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.87,
+      "sprint_speed_kmh": 30.6,
+      "pass_accuracy": 83.2
+    }
+  },
+  "player:142": {
+    "identity": {
+      "name": "Owen Fernandez",
+      "team": "Manchester City",
+      "position": "Defender",
+      "age": 24
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.52,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 12.07,
+      "sprint_speed_kmh": 34.7,
+      "pass_accuracy": 87.7
+    }
+  },
+  "player:95": {
+    "identity": {
+      "name": "Tariq Hernandez",
+      "team": "Atletico Madrid",
+      "position": "Midfielder",
+      "age": 20
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 7,
+      "rating": 6.2,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.17,
+      "sprint_speed_kmh": 29.3,
+      "pass_accuracy": 75.0
+    }
+  },
+  "player:110": {
+    "identity": {
+      "name": "Tariq Diallo",
+      "team": "Manchester City",
+      "position": "Defender",
+      "age": 26
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 1,
+      "rating": 7.34,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.78,
+      "sprint_speed_kmh": 33.0,
+      "pass_accuracy": 81.9
+    }
+  },
+  "player:103": {
+    "identity": {
+      "name": "Malik Fernandez",
+      "team": "Arsenal",
+      "position": "Forward",
+      "age": 26
+    },
+    "performance": {
+      "goals": 6,
+      "assists": 4,
+      "rating": 7.02,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 8.84,
+      "sprint_speed_kmh": 31.0,
+      "pass_accuracy": 88.2
+    }
+  },
+  "player:126": {
+    "identity": {
+      "name": "Hugo Weber",
+      "team": "Real Madrid",
+      "position": "Defender",
+      "age": 21
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 1,
+      "rating": 8.03,
+      "performance_tier": "Elite"
+    },
+    "physical": {
+      "distance_covered_km": 10.44,
+      "sprint_speed_kmh": 34.0,
+      "pass_accuracy": 79.6
+    }
+  },
+  "player:149": {
+    "identity": {
+      "name": "Nico Costa",
+      "team": "Real Madrid",
+      "position": "Midfielder",
+      "age": 19
+    },
+    "performance": {
+      "goals": 7,
+      "assists": 2,
+      "rating": 7.0,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 12.35,
+      "sprint_speed_kmh": 28.2,
+      "pass_accuracy": 87.7
+    }
+  },
+  "player:127": {
+    "identity": {
+      "name": "Owen Rossi",
+      "team": "Manchester City",
+      "position": "Midfielder",
+      "age": 28
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 12,
+      "rating": 6.42,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.75,
+      "sprint_speed_kmh": 29.7,
+      "pass_accuracy": 99.0
+    }
+  },
+  "player:122": {
+    "identity": {
+      "name": "Omar Morales",
+      "team": "Liverpool",
+      "position": "Midfielder",
+      "age": 23
+    },
+    "performance": {
+      "goals": 2,
+      "assists": 2,
+      "rating": 6.74,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.13,
+      "sprint_speed_kmh": 35.1,
+      "pass_accuracy": 82.2
+    }
+  },
+  "player:144": {
+    "identity": {
+      "name": "Gabriel Morales",
+      "team": "Chelsea",
+      "position": "Defender",
+      "age": 23
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 1,
+      "rating": 6.67,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.64,
+      "sprint_speed_kmh": 32.8,
+      "pass_accuracy": 82.9
+    }
+  },
+  "player:158": {
+    "identity": {
+      "name": "Enzo Silva",
+      "team": "Borussia Dortmund",
+      "position": "Midfielder",
+      "age": 33
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 6,
+      "rating": 7.01,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.61,
+      "sprint_speed_kmh": 29.9,
+      "pass_accuracy": 84.8
+    }
+  },
+  "player:36": {
+    "identity": {
+      "name": "Jude Morales",
+      "team": "Arsenal",
+      "position": "Defender",
+      "age": 27
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 1,
+      "rating": 6.35,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 12.59,
+      "sprint_speed_kmh": 33.1,
+      "pass_accuracy": 86.3
+    }
+  },
+  "player:109": {
+    "identity": {
+      "name": "Pablo Morales",
+      "team": "Liverpool",
+      "position": "Goalkeeper",
+      "age": 23
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 7.45,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.59,
+      "sprint_speed_kmh": 32.3,
+      "pass_accuracy": 87.0
+    }
+  },
+  "player:114": {
+    "identity": {
+      "name": "Hugo Pereira",
+      "team": "Real Madrid",
+      "position": "Forward",
+      "age": 32
+    },
+    "performance": {
+      "goals": 6,
+      "assists": 0,
+      "rating": 6.43,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 7.98,
+      "sprint_speed_kmh": 31.7,
+      "pass_accuracy": 69.4
+    }
+  },
+  "player:86": {
+    "identity": {
+      "name": "Samuel Dubois",
+      "team": "Arsenal",
+      "position": "Midfielder",
+      "age": 20
+    },
+    "performance": {
+      "goals": 2,
+      "assists": 10,
+      "rating": 6.79,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.56,
+      "sprint_speed_kmh": 34.0,
+      "pass_accuracy": 78.5
+    }
+  },
+  "player:81": {
+    "identity": {
+      "name": "Lucas Okafor",
+      "team": "Bayern Munich",
+      "position": "Forward",
+      "age": 20
+    },
+    "performance": {
+      "goals": 15,
+      "assists": 4,
+      "rating": 6.0,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.75,
+      "sprint_speed_kmh": 31.5,
+      "pass_accuracy": 98.2
+    }
+  },
+  "player:151": {
+    "identity": {
+      "name": "Elias Muller",
+      "team": "Barcelona",
+      "position": "Midfielder",
+      "age": 31
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 14,
+      "rating": 6.28,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.57,
+      "sprint_speed_kmh": 31.7,
+      "pass_accuracy": 78.5
+    }
+  },
+  "player:167": {
+    "identity": {
+      "name": "Hugo Haas",
+      "team": "Real Madrid",
+      "position": "Defender",
+      "age": 25
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 1,
+      "rating": 6.76,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.7,
+      "sprint_speed_kmh": 30.1,
+      "pass_accuracy": 93.3
+    }
+  },
+  "player:58": {
+    "identity": {
+      "name": "Felix Larsson",
+      "team": "Arsenal",
+      "position": "Forward",
+      "age": 19
+    },
+    "performance": {
+      "goals": 9,
+      "assists": 7,
+      "rating": 6.46,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.39,
+      "sprint_speed_kmh": 29.2,
+      "pass_accuracy": 74.8
+    }
+  },
+  "player:169": {
+    "identity": {
+      "name": "Rico Adeyemi",
+      "team": "Paris SG",
+      "position": "Midfielder",
+      "age": 25
+    },
+    "performance": {
+      "goals": 7,
+      "assists": 2,
+      "rating": 7.76,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 13.79,
+      "sprint_speed_kmh": 34.0,
+      "pass_accuracy": 82.3
+    }
+  },
+  "player:14": {
+    "identity": {
+      "name": "Ivan Ivanov",
+      "team": "Liverpool",
+      "position": "Midfielder",
+      "age": 17
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 5,
+      "rating": 6.39,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.47,
+      "sprint_speed_kmh": 29.6,
+      "pass_accuracy": 76.9
+    }
+  },
+  "player:92": {
+    "identity": {
+      "name": "Jude Dubois",
+      "team": "Napoli",
+      "position": "Defender",
+      "age": 21
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 3,
+      "rating": 6.92,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.24,
+      "sprint_speed_kmh": 28.0,
+      "pass_accuracy": 84.3
+    }
+  },
+  "player:67": {
+    "identity": {
+      "name": "Adrian Kovac",
+      "team": "Unknown",
+      "position": "Forward",
+      "age": 24
+    },
+    "performance": {
+      "goals": 19,
+      "assists": 0,
+      "rating": 6.63,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 12.13,
+      "sprint_speed_kmh": 29.4,
+      "pass_accuracy": 92.3
+    }
+  },
+  "player:117": {
+    "identity": {
+      "name": "Rico Morales",
+      "team": "Napoli",
+      "position": "Forward",
+      "age": 24
+    },
+    "performance": {
+      "goals": 19,
+      "assists": 0,
+      "rating": 7.27,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 7.87,
+      "sprint_speed_kmh": 33.6,
+      "pass_accuracy": 91.1
+    }
+  },
+  "player:175": {
+    "identity": {
+      "name": "Nico Hernandez",
+      "team": "Arsenal",
+      "position": "Forward",
+      "age": 21
+    },
+    "performance": {
+      "goals": 9,
+      "assists": 6,
+      "rating": 6.36,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.84,
+      "sprint_speed_kmh": 25.8,
+      "pass_accuracy": 77.5
+    }
+  },
+  "player:132": {
+    "identity": {
+      "name": "Kevin Adeyemi",
+      "team": "Liverpool",
+      "position": "Midfielder",
+      "age": 20
+    },
+    "performance": {
+      "goals": 7,
+      "assists": 13,
+      "rating": 6.35,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.23,
+      "sprint_speed_kmh": 32.7,
+      "pass_accuracy": 85.1
+    }
+  },
+  "player:160": {
+    "identity": {
+      "name": "Mateo Ivanov",
+      "team": "Unknown",
+      "position": "Defender",
+      "age": 22
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 3,
+      "rating": 7.15,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 11.3,
+      "sprint_speed_kmh": 23.7,
+      "pass_accuracy": 82.2
+    }
+  },
+  "player:46": {
+    "identity": {
+      "name": "Malik Dubois",
+      "team": "Inter Milan",
+      "position": "Midfielder",
+      "age": 26
+    },
+    "performance": {
+      "goals": 8,
+      "assists": 1,
+      "rating": 7.89,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 8.8,
+      "sprint_speed_kmh": 35.6,
+      "pass_accuracy": 78.7
+    }
+  },
+  "player:96": {
+    "identity": {
+      "name": "Leo Santos",
+      "team": "Atletico Madrid",
+      "position": "Forward",
+      "age": 26
+    },
+    "performance": {
+      "goals": 19,
+      "assists": 0,
+      "rating": 6.59,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.6,
+      "sprint_speed_kmh": 28.8,
+      "pass_accuracy": 87.6
+    }
+  },
+  "player:37": {
+    "identity": {
+      "name": "Nico Dubois",
+      "team": "Manchester City",
+      "position": "Defender",
+      "age": 25
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 0,
+      "rating": 7.71,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.91,
+      "sprint_speed_kmh": 34.1,
+      "pass_accuracy": 79.2
+    }
+  },
+  "player:115": {
+    "identity": {
+      "name": "Felix Rossi",
+      "team": "Bayern Munich",
+      "position": "Midfielder",
+      "age": 27
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 4,
+      "rating": 6.16,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.36,
+      "sprint_speed_kmh": 26.8,
+      "pass_accuracy": 88.4
+    }
+  },
+  "player:52": {
+    "identity": {
+      "name": "Victor Pereira",
+      "team": "Liverpool",
+      "position": "Forward",
+      "age": 29
+    },
+    "performance": {
+      "goals": 6,
+      "assists": 4,
+      "rating": 6.63,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.69,
+      "sprint_speed_kmh": 30.6,
+      "pass_accuracy": 82.6
+    }
+  },
+  "player:61": {
+    "identity": {
+      "name": "Andres Weber",
+      "team": "Arsenal",
+      "position": "Forward",
+      "age": 26
+    },
+    "performance": {
+      "goals": 13,
+      "assists": 6,
+      "rating": 7.09,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 11.05,
+      "sprint_speed_kmh": 28.6,
+      "pass_accuracy": 85.2
+    }
+  },
+  "player:97": {
+    "identity": {
+      "name": "Leo Costa",
+      "team": "Arsenal",
+      "position": "Defender",
+      "age": 26
+    },
+    "performance": {
+      "goals": 4,
+      "assists": 1,
+      "rating": 6.1,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.4,
+      "sprint_speed_kmh": 26.6,
+      "pass_accuracy": 82.9
+    }
+  },
+  "player:131": {
+    "identity": {
+      "name": "Andres Costa",
+      "team": "Napoli",
+      "position": "Midfielder",
+      "age": 34
+    },
+    "performance": {
+      "goals": 4,
+      "assists": 5,
+      "rating": 6.63,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 12.27,
+      "sprint_speed_kmh": 31.7,
+      "pass_accuracy": 83.6
+    }
+  },
+  "player:47": {
+    "identity": {
+      "name": "Diego Morales",
+      "team": "Napoli",
+      "position": "Defender",
+      "age": 24
+    },
+    "performance": {
+      "goals": 4,
+      "assists": 0,
+      "rating": 6.59,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.98,
+      "sprint_speed_kmh": 33.0,
+      "pass_accuracy": 85.6
+    }
+  },
+  "player:172": {
+    "identity": {
+      "name": "Andres Garcia",
+      "team": "Real Madrid",
+      "position": "Midfielder",
+      "age": 31
+    },
+    "performance": {
+      "goals": 7,
+      "assists": 8,
+      "rating": 5.92,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.72,
+      "sprint_speed_kmh": 32.0,
+      "pass_accuracy": 85.4
+    }
+  },
+  "player:133": {
+    "identity": {
+      "name": "Felix Muller",
+      "team": "Real Madrid",
+      "position": "Midfielder",
+      "age": 32
+    },
+    "performance": {
+      "goals": 8,
+      "assists": 24,
+      "rating": 7.14,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 11.28,
+      "sprint_speed_kmh": 34.2,
+      "pass_accuracy": 84.5
+    }
+  },
+  "player:83": {
+    "identity": {
+      "name": "Mateo Fernandez",
+      "team": "Paris SG",
+      "position": "Forward",
+      "age": 23
+    },
+    "performance": {
+      "goals": 8,
+      "assists": 5,
+      "rating": 7.4,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 11.19,
+      "sprint_speed_kmh": 26.1,
+      "pass_accuracy": 82.9
+    }
+  },
+  "player:12": {
+    "identity": {
+      "name": "Kai Silva",
+      "team": "Liverpool",
+      "position": "Midfielder",
+      "age": 23
+    },
+    "performance": {
+      "goals": 8,
+      "assists": 4,
+      "rating": 6.76,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.88,
+      "sprint_speed_kmh": 30.4,
+      "pass_accuracy": 74.5
+    }
+  },
+  "player:100": {
+    "identity": {
+      "name": "Owen Silva",
+      "team": "Manchester City",
+      "position": "Defender",
+      "age": 31
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 1,
+      "rating": 6.31,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.03,
+      "sprint_speed_kmh": 32.5,
+      "pass_accuracy": 98.5
+    }
+  },
+  "player:64": {
+    "identity": {
+      "name": "Kevin Garcia",
+      "team": "Borussia Dortmund",
+      "position": "Forward",
+      "age": 23
+    },
+    "performance": {
+      "goals": 10,
+      "assists": 1,
+      "rating": 6.92,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.7,
+      "sprint_speed_kmh": 32.0,
+      "pass_accuracy": 94.7
+    }
+  },
+  "player:28": {
+    "identity": {
+      "name": "Felix Morales",
+      "team": "Bayern Munich",
+      "position": "Midfielder",
+      "age": 24
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 0,
+      "rating": 7.08,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 7.16,
+      "sprint_speed_kmh": 36.1,
+      "pass_accuracy": 88.4
+    }
+  },
+  "player:102": {
+    "identity": {
+      "name": "Victor Kovac",
+      "team": "Barcelona",
+      "position": "Defender",
+      "age": 23
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 1,
+      "rating": 6.22,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.38,
+      "sprint_speed_kmh": 30.1,
+      "pass_accuracy": 92.2
+    }
+  },
+  "player:82": {
+    "identity": {
+      "name": "Elias Adeyemi",
+      "team": "Liverpool",
+      "position": "Defender",
+      "age": 33
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 1,
+      "rating": 6.99,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.2,
+      "sprint_speed_kmh": 30.0,
+      "pass_accuracy": 83.8
+    }
+  },
+  "player:150": {
+    "identity": {
+      "name": "Malik Santos",
+      "team": "Liverpool",
+      "position": "Defender",
+      "age": 25
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 1,
+      "rating": 6.61,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.29,
+      "sprint_speed_kmh": 32.8,
+      "pass_accuracy": 86.9
+    }
+  },
+  "player:112": {
+    "identity": {
+      "name": "Kevin Fernandez",
+      "team": "Bayern Munich",
+      "position": "Midfielder",
+      "age": 29
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 15,
+      "rating": 5.48,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.24,
+      "sprint_speed_kmh": 30.4,
+      "pass_accuracy": 75.2
+    }
+  },
+  "player:38": {
+    "identity": {
+      "name": "Nico Nakamura",
+      "team": "Liverpool",
+      "position": "Defender",
+      "age": 26
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 1,
+      "rating": 7.82,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 14.0,
+      "sprint_speed_kmh": 31.5,
+      "pass_accuracy": 75.5
+    }
+  },
+  "player:118": {
+    "identity": {
+      "name": "Rafael Hernandez",
+      "team": "Liverpool",
+      "position": "Midfielder",
+      "age": 19
+    },
+    "performance": {
+      "goals": 4,
+      "assists": 5,
+      "rating": 6.51,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.54,
+      "sprint_speed_kmh": 26.9,
+      "pass_accuracy": 89.8
+    }
+  },
+  "player:130": {
+    "identity": {
+      "name": "Theo Larsson",
+      "team": "Paris SG",
+      "position": "Defender",
+      "age": 29
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 2,
+      "rating": 7.48,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 13.15,
+      "sprint_speed_kmh": 30.3,
+      "pass_accuracy": 79.4
+    }
+  },
+  "player:29": {
+    "identity": {
+      "name": "Elias Ivanov",
+      "team": "Napoli",
+      "position": "Forward",
+      "age": 25
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 2,
+      "rating": 6.06,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 7.2,
+      "sprint_speed_kmh": 32.3,
+      "pass_accuracy": 83.2
+    }
+  },
+  "player:41": {
+    "identity": {
+      "name": "Omar Fernandez",
+      "team": "Manchester City",
+      "position": "Defender",
+      "age": 21
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.64,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.62,
+      "sprint_speed_kmh": 30.6,
+      "pass_accuracy": 80.2
+    }
+  },
+  "player:89": {
+    "identity": {
+      "name": "Jude Fernandez",
+      "team": "Borussia Dortmund",
+      "position": "Midfielder",
+      "age": 28
+    },
+    "performance": {
+      "goals": 4,
+      "assists": 9,
+      "rating": 6.71,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.44,
+      "sprint_speed_kmh": 31.9,
+      "pass_accuracy": 82.1
+    }
+  },
+  "player:146": {
+    "identity": {
+      "name": "Nico Silva",
+      "team": "Real Madrid",
+      "position": "Forward",
+      "age": 27
+    },
+    "performance": {
+      "goals": 9,
+      "assists": 3,
+      "rating": 6.71,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.4,
+      "sprint_speed_kmh": 26.6,
+      "pass_accuracy": 79.4
+    }
+  },
+  "player:85": {
+    "identity": {
+      "name": "Rico Haas",
+      "team": "Liverpool",
+      "position": "Goalkeeper",
+      "age": 30
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 7.51,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.21,
+      "sprint_speed_kmh": 31.8,
+      "pass_accuracy": 79.4
+    }
+  },
+  "player:50": {
+    "identity": {
+      "name": "Pablo Adeyemi",
+      "team": "Unknown",
+      "position": "Forward",
+      "age": 19
+    },
+    "performance": {
+      "goals": 15,
+      "assists": 4,
+      "rating": 6.92,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.07,
+      "sprint_speed_kmh": 34.2,
+      "pass_accuracy": 87.7
+    }
+  },
+  "player:6": {
+    "identity": {
+      "name": "Ivan Dubois",
+      "team": "Atletico Madrid",
+      "position": "Forward",
+      "age": 28
+    },
+    "performance": {
+      "goals": 8,
+      "assists": 7,
+      "rating": 6.55,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.56,
+      "sprint_speed_kmh": 29.2,
+      "pass_accuracy": 82.7
+    }
+  },
+  "player:18": {
+    "identity": {
+      "name": "Hugo Garcia",
+      "team": "Arsenal",
+      "position": "Midfielder",
+      "age": 26
+    },
+    "performance": {
+      "goals": 6,
+      "assists": 14,
+      "rating": 6.73,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.49,
+      "sprint_speed_kmh": 32.2,
+      "pass_accuracy": 74.8
+    }
+  },
+  "player:105": {
+    "identity": {
+      "name": "Kai Kovac",
+      "team": "Liverpool",
+      "position": "Forward",
+      "age": 27
+    },
+    "performance": {
+      "goals": 12,
+      "assists": 3,
+      "rating": 6.49,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.71,
+      "sprint_speed_kmh": 29.5,
+      "pass_accuracy": 84.1
+    }
+  },
+  "player:159": {
+    "identity": {
+      "name": "Jude Rossi",
+      "team": "Atletico Madrid",
+      "position": "Forward",
+      "age": 27
+    },
+    "performance": {
+      "goals": 8,
+      "assists": 5,
+      "rating": 6.26,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 12.06,
+      "sprint_speed_kmh": 31.1,
+      "pass_accuracy": 69.3
+    }
+  },
+  "player:166": {
+    "identity": {
+      "name": "Rafael Okafor",
+      "team": "Real Madrid",
+      "position": "Midfielder",
+      "age": 25
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 9,
+      "rating": 7.33,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 12.39,
+      "sprint_speed_kmh": 29.0,
+      "pass_accuracy": 79.5
+    }
+  },
+  "player:177": {
+    "identity": {
+      "name": "Rafael Ivanov",
+      "team": "Manchester City",
+      "position": "Midfielder",
+      "age": 20
+    },
+    "performance": {
+      "goals": 2,
+      "assists": 1,
+      "rating": 6.53,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.14,
+      "sprint_speed_kmh": 29.9,
+      "pass_accuracy": 84.0
+    }
+  },
+  "player:63": {
+    "identity": {
+      "name": "Marco Weber",
+      "team": "Napoli",
+      "position": "Forward",
+      "age": 21
+    },
+    "performance": {
+      "goals": 10,
+      "assists": 0,
+      "rating": 6.63,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.43,
+      "sprint_speed_kmh": 30.4,
+      "pass_accuracy": 92.5
+    }
+  },
+  "player:65": {
+    "identity": {
+      "name": "Nico Garcia",
+      "team": "Atletico Madrid",
+      "position": "Defender",
+      "age": 31
+    },
+    "performance": {
+      "goals": 2,
+      "assists": 3,
+      "rating": 5.6,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.61,
+      "sprint_speed_kmh": 30.1,
+      "pass_accuracy": 98.6
+    }
+  },
+  "player:27": {
+    "identity": {
+      "name": "Tariq Nakamura",
+      "team": "Real Madrid",
+      "position": "Midfielder",
+      "age": 35
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 7,
+      "rating": 5.78,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.54,
+      "sprint_speed_kmh": 25.9,
+      "pass_accuracy": 69.7
+    }
+  },
+  "player:87": {
+    "identity": {
+      "name": "Jude Garcia",
+      "team": "Borussia Dortmund",
+      "position": "Defender",
+      "age": 19
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 3,
+      "rating": 6.28,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.84,
+      "sprint_speed_kmh": 34.0,
+      "pass_accuracy": 82.8
+    }
+  },
+  "player:42": {
+    "identity": {
+      "name": "Diego Silva",
+      "team": "Barcelona",
+      "position": "Defender",
+      "age": 20
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 3,
+      "rating": 7.76,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.57,
+      "sprint_speed_kmh": 25.7,
+      "pass_accuracy": 79.7
+    }
+  },
+  "player:53": {
+    "identity": {
+      "name": "Ivan Hernandez",
+      "team": "Napoli",
+      "position": "Midfielder",
+      "age": 18
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 3,
+      "rating": 7.16,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 11.32,
+      "sprint_speed_kmh": 31.7,
+      "pass_accuracy": 77.5
+    }
+  },
+  "player:163": {
+    "identity": {
+      "name": "Owen Dubois",
+      "team": "Arsenal",
+      "position": "Midfielder",
+      "age": 21
+    },
+    "performance": {
+      "goals": 7,
+      "assists": 16,
+      "rating": 5.98,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.4,
+      "sprint_speed_kmh": 28.3,
+      "pass_accuracy": 77.4
+    }
+  },
+  "player:8": {
+    "identity": {
+      "name": "Omar Costa",
+      "team": "Bayern Munich",
+      "position": "Midfielder",
+      "age": 17
+    },
+    "performance": {
+      "goals": 14,
+      "assists": 17,
+      "rating": 7.06,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.24,
+      "sprint_speed_kmh": 32.8,
+      "pass_accuracy": 80.5
+    }
+  },
+  "player:164": {
+    "identity": {
+      "name": "Adrian Rossi",
+      "team": "Real Madrid",
+      "position": "Forward",
+      "age": 24
+    },
+    "performance": {
+      "goals": 21,
+      "assists": 10,
+      "rating": 7.78,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.49,
+      "sprint_speed_kmh": 26.8,
+      "pass_accuracy": 83.2
+    }
+  },
+  "player:123": {
+    "identity": {
+      "name": "Malik Diallo",
+      "team": "Atletico Madrid",
+      "position": "Forward",
+      "age": 28
+    },
+    "performance": {
+      "goals": 11,
+      "assists": 0,
+      "rating": 8.14,
+      "performance_tier": "Elite"
+    },
+    "physical": {
+      "distance_covered_km": 9.1,
+      "sprint_speed_kmh": 28.3,
+      "pass_accuracy": 88.7
+    }
+  },
+  "player:71": {
+    "identity": {
+      "name": "Ivan Diallo",
+      "team": "Paris SG",
+      "position": "Midfielder",
+      "age": 29
+    },
+    "performance": {
+      "goals": 4,
+      "assists": 2,
+      "rating": 7.51,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 13.0,
+      "sprint_speed_kmh": 33.4,
+      "pass_accuracy": 81.8
+    }
+  },
+  "player:157": {
+    "identity": {
+      "name": "Adrian Diallo",
+      "team": "Manchester City",
+      "position": "Goalkeeper",
+      "age": 19
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 7.13,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 7.98,
+      "sprint_speed_kmh": 26.3,
+      "pass_accuracy": 96.6
+    }
+  },
+  "player:98": {
+    "identity": {
+      "name": "Victor Dubois",
+      "team": "Inter Milan",
+      "position": "Forward",
+      "age": 17
+    },
+    "performance": {
+      "goals": 11,
+      "assists": 3,
+      "rating": 6.23,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.22,
+      "sprint_speed_kmh": 30.6,
+      "pass_accuracy": 79.6
+    }
+  },
+  "player:9": {
+    "identity": {
+      "name": "Lucas Diallo",
+      "team": "Atletico Madrid",
+      "position": "Midfielder",
+      "age": 22
+    },
+    "performance": {
+      "goals": 6,
+      "assists": 0,
+      "rating": 6.87,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.5,
+      "sprint_speed_kmh": 31.9,
+      "pass_accuracy": 100.0
+    }
+  },
+  "player:99": {
+    "identity": {
+      "name": "Tariq Santos",
+      "team": "Arsenal",
+      "position": "Midfielder",
+      "age": 21
+    },
+    "performance": {
+      "goals": 4,
+      "assists": 6,
+      "rating": 7.01,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.38,
+      "sprint_speed_kmh": 29.8,
+      "pass_accuracy": 80.8
+    }
+  },
+  "player:80": {
+    "identity": {
+      "name": "Elias Larsson",
+      "team": "Barcelona",
+      "position": "Midfielder",
+      "age": 24
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 5.71,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.36,
+      "sprint_speed_kmh": 33.2,
+      "pass_accuracy": 81.9
+    }
+  },
+  "player:55": {
+    "identity": {
+      "name": "Jude Hernandez",
+      "team": "Bayern Munich",
+      "position": "Forward",
+      "age": 21
+    },
+    "performance": {
+      "goals": 13,
+      "assists": 7,
+      "rating": 6.49,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.95,
+      "sprint_speed_kmh": 29.0,
+      "pass_accuracy": 96.1
+    }
+  },
+  "player:116": {
+    "identity": {
+      "name": "Mateo Garcia",
+      "team": "Bayern Munich",
+      "position": "Midfielder",
+      "age": 18
+    },
+    "performance": {
+      "goals": 8,
+      "assists": 3,
+      "rating": 7.66,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 11.23,
+      "sprint_speed_kmh": 33.1,
+      "pass_accuracy": 68.3
+    }
+  },
+  "player:30": {
+    "identity": {
+      "name": "Pablo Weber",
+      "team": "Chelsea",
+      "position": "Forward",
+      "age": 25
+    },
+    "performance": {
+      "goals": 6,
+      "assists": 5,
+      "rating": 7.04,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.15,
+      "sprint_speed_kmh": 31.1,
+      "pass_accuracy": 84.2
+    }
+  },
+  "player:4": {
+    "identity": {
+      "name": "Owen Garcia",
+      "team": "Manchester City",
+      "position": "Midfielder",
+      "age": 24
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 2,
+      "rating": 7.54,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 8.29,
+      "sprint_speed_kmh": 32.6,
+      "pass_accuracy": 68.9
+    }
+  },
+  "player:40": {
+    "identity": {
+      "name": "Kevin Okafor",
+      "team": "Inter Milan",
+      "position": "Forward",
+      "age": 32
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 4,
+      "rating": 6.67,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.47,
+      "sprint_speed_kmh": 28.3,
+      "pass_accuracy": 79.3
+    }
+  },
+  "player:125": {
+    "identity": {
+      "name": "Marco Garcia",
+      "team": "Barcelona",
+      "position": "Defender",
+      "age": 22
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 1,
+      "rating": 5.84,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.55,
+      "sprint_speed_kmh": 30.5,
+      "pass_accuracy": 86.3
+    }
+  },
+  "player:78": {
+    "identity": {
+      "name": "Bruno Adeyemi",
+      "team": "Borussia Dortmund",
+      "position": "Midfielder",
+      "age": 19
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 3,
+      "rating": 7.35,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 8.53,
+      "sprint_speed_kmh": 32.8,
+      "pass_accuracy": 85.9
+    }
+  },
+  "player:154": {
+    "identity": {
+      "name": "Pablo Haas",
+      "team": "Barcelona",
+      "position": "Defender",
+      "age": 23
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 5,
+      "rating": 5.8,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.81,
+      "sprint_speed_kmh": 33.0,
+      "pass_accuracy": 80.0
+    }
+  },
+  "player:139": {
+    "identity": {
+      "name": "Malik Garcia",
+      "team": "Atletico Madrid",
+      "position": "Midfielder",
+      "age": 24
+    },
+    "performance": {
+      "goals": 4,
+      "assists": 0,
+      "rating": 7.82,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 12.45,
+      "sprint_speed_kmh": 29.0,
+      "pass_accuracy": 69.1
+    }
+  },
+  "player:91": {
+    "identity": {
+      "name": "Pablo Larsson",
+      "team": "Chelsea",
+      "position": "Midfielder",
+      "age": 20
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 5,
+      "rating": 7.76,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 13.06,
+      "sprint_speed_kmh": 28.0,
+      "pass_accuracy": 81.7
+    }
+  },
+  "player:161": {
+    "identity": {
+      "name": "Marco Kovac",
+      "team": "Atletico Madrid",
+      "position": "Goalkeeper",
+      "age": 24
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 7.22,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.31,
+      "sprint_speed_kmh": 32.1,
+      "pass_accuracy": 76.9
+    }
+  },
+  "player:44": {
+    "identity": {
+      "name": "Elias Morales",
+      "team": "Liverpool",
+      "position": "Defender",
+      "age": 20
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 6,
+      "rating": 7.21,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 11.95,
+      "sprint_speed_kmh": 32.1,
+      "pass_accuracy": 85.1
+    }
+  },
+  "player:135": {
+    "identity": {
+      "name": "Noah Rossi",
+      "team": "Inter Milan",
+      "position": "Forward",
+      "age": 24
+    },
+    "performance": {
+      "goals": 14,
+      "assists": 12,
+      "rating": 6.33,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.66,
+      "sprint_speed_kmh": 32.1,
+      "pass_accuracy": 83.2
+    }
+  },
+  "player:49": {
+    "identity": {
+      "name": "Theo Ivanov",
+      "team": "Manchester City",
+      "position": "Midfielder",
+      "age": 18
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 10,
+      "rating": 7.49,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.73,
+      "sprint_speed_kmh": 35.9,
+      "pass_accuracy": 83.3
+    }
+  },
+  "player:180": {
+    "identity": {
+      "name": "Kevin Santos",
+      "team": "Real Madrid",
+      "position": "Midfielder",
+      "age": 24
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 5,
+      "rating": 7.18,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 11.89,
+      "sprint_speed_kmh": 32.9,
+      "pass_accuracy": 70.6
+    }
+  },
+  "player:60": {
+    "identity": {
+      "name": "Samuel Larsson",
+      "team": "Chelsea",
+      "position": "Midfielder",
+      "age": 24
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 5,
+      "rating": 7.67,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 12.52,
+      "sprint_speed_kmh": 33.2,
+      "pass_accuracy": 73.4
+    }
+  },
+  "player:16": {
+    "identity": {
+      "name": "Noah Weber",
+      "team": "Atletico Madrid",
+      "position": "Forward",
+      "age": 17
+    },
+    "performance": {
+      "goals": 18,
+      "assists": 0,
+      "rating": 6.36,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.54,
+      "sprint_speed_kmh": 29.4,
+      "pass_accuracy": 79.7
+    }
+  },
+  "player:54": {
+    "identity": {
+      "name": "Nico Kovac",
+      "team": "Bayern Munich",
+      "position": "Goalkeeper",
+      "age": 23
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 5.45,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.34,
+      "sprint_speed_kmh": 27.3,
+      "pass_accuracy": 90.4
+    }
+  },
+  "player:21": {
+    "identity": {
+      "name": "Owen Haas",
+      "team": "Manchester City",
+      "position": "Defender",
+      "age": 28
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 3,
+      "rating": 7.44,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.28,
+      "sprint_speed_kmh": 31.2,
+      "pass_accuracy": 85.5
+    }
+  },
+  "player:15": {
+    "identity": {
+      "name": "Kevin Nakamura",
+      "team": "Napoli",
+      "position": "Goalkeeper",
+      "age": 26
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.02,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.89,
+      "sprint_speed_kmh": 30.6,
+      "pass_accuracy": 78.4
+    }
+  },
+  "player:121": {
+    "identity": {
+      "name": "Omar Nakamura",
+      "team": "Manchester City",
+      "position": "Midfielder",
+      "age": 27
+    },
+    "performance": {
+      "goals": 6,
+      "assists": 16,
+      "rating": 6.98,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.57,
+      "sprint_speed_kmh": 27.8,
+      "pass_accuracy": 89.9
+    }
+  },
+  "player:77": {
+    "identity": {
+      "name": "Kai Larsson",
+      "team": "Real Madrid",
+      "position": "Defender",
+      "age": 19
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.99,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.45,
+      "sprint_speed_kmh": 30.3,
+      "pass_accuracy": 77.0
+    }
+  },
+  "player:10": {
+    "identity": {
+      "name": "Felix Kovac",
+      "team": "Liverpool",
+      "position": "Midfielder",
+      "age": 24
+    },
+    "performance": {
+      "goals": 6,
+      "assists": 2,
+      "rating": 6.32,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.35,
+      "sprint_speed_kmh": 33.3,
+      "pass_accuracy": 82.8
+    }
+  },
+  "player:106": {
+    "identity": {
+      "name": "Mateo Kovac",
+      "team": "Bayern Munich",
+      "position": "Forward",
+      "age": 19
+    },
+    "performance": {
+      "goals": 8,
+      "assists": 0,
+      "rating": 6.44,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.23,
+      "sprint_speed_kmh": 29.6,
+      "pass_accuracy": 89.6
+    }
+  },
+  "player:108": {
+    "identity": {
+      "name": "Nico Haas",
+      "team": "Manchester City",
+      "position": "Defender",
+      "age": 27
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 2,
+      "rating": 7.58,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.6,
+      "sprint_speed_kmh": 32.9,
+      "pass_accuracy": 84.1
+    }
+  },
+  "player:148": {
+    "identity": {
+      "name": "Rico Larsson",
+      "team": "Bayern Munich",
+      "position": "Midfielder",
+      "age": 26
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 7,
+      "rating": 6.37,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.72,
+      "sprint_speed_kmh": 29.0,
+      "pass_accuracy": 72.6
+    }
+  },
+  "player:13": {
+    "identity": {
+      "name": "Lucas Kovac",
+      "team": "Chelsea",
+      "position": "Defender",
+      "age": 29
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 7.14,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.33,
+      "sprint_speed_kmh": 32.6,
+      "pass_accuracy": 87.0
+    }
+  },
+  "player:17": {
+    "identity": {
+      "name": "Lucas Nakamura",
+      "team": "Liverpool",
+      "position": "Goalkeeper",
+      "age": 19
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 1,
+      "rating": 8.21,
+      "performance_tier": "Elite"
+    },
+    "physical": {
+      "distance_covered_km": 8.89,
+      "sprint_speed_kmh": 27.8,
+      "pass_accuracy": 81.9
+    }
+  },
+  "player:48": {
+    "identity": {
+      "name": "Rico Okafor",
+      "team": "Manchester City",
+      "position": "Goalkeeper",
+      "age": 25
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.89,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.81,
+      "sprint_speed_kmh": 32.4,
+      "pass_accuracy": 83.6
+    }
+  },
+  "player:59": {
+    "identity": {
+      "name": "Samuel Weber",
+      "team": "Liverpool",
+      "position": "Goalkeeper",
+      "age": 26
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.5,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.22,
+      "sprint_speed_kmh": 32.7,
+      "pass_accuracy": 78.0
+    }
+  },
+  "player:173": {
+    "identity": {
+      "name": "Kai Hernandez",
+      "team": "Inter Milan",
+      "position": "Defender",
+      "age": 22
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 3,
+      "rating": 6.67,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.3,
+      "sprint_speed_kmh": 33.7,
+      "pass_accuracy": 94.1
+    }
+  },
+  "player:155": {
+    "identity": {
+      "name": "Felix Santos",
+      "team": "Unknown",
+      "position": "Forward",
+      "age": 27
+    },
+    "performance": {
+      "goals": 8,
+      "assists": 5,
+      "rating": 6.9,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 7.09,
+      "sprint_speed_kmh": 30.4,
+      "pass_accuracy": 82.6
+    }
+  },
+  "player:120": {
+    "identity": {
+      "name": "Adrian Santos",
+      "team": "Real Madrid",
+      "position": "Midfielder",
+      "age": 26
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 14,
+      "rating": 5.61,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.89,
+      "sprint_speed_kmh": 34.1,
+      "pass_accuracy": 83.8
+    }
+  },
+  "player:22": {
+    "identity": {
+      "name": "Lucas Garcia",
+      "team": "Atletico Madrid",
+      "position": "Forward",
+      "age": 25
+    },
+    "performance": {
+      "goals": 7,
+      "assists": 4,
+      "rating": 6.99,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.4,
+      "sprint_speed_kmh": 30.6,
+      "pass_accuracy": 92.3
+    }
+  },
+  "player:19": {
+    "identity": {
+      "name": "Marco Nakamura",
+      "team": "Atletico Madrid",
+      "position": "Goalkeeper",
+      "age": 28
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 5.73,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.53,
+      "sprint_speed_kmh": 34.6,
+      "pass_accuracy": 79.5
+    }
+  },
+  "player:51": {
+    "identity": {
+      "name": "Tariq Ivanov",
+      "team": "Liverpool",
+      "position": "Midfielder",
+      "age": 24
+    },
+    "performance": {
+      "goals": 6,
+      "assists": 4,
+      "rating": 5.66,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 6.4,
+      "sprint_speed_kmh": 34.4,
+      "pass_accuracy": 91.5
+    }
+  },
+  "player:3": {
+    "identity": {
+      "name": "Hugo Santos",
+      "team": "Paris SG",
+      "position": "Forward",
+      "age": 28
+    },
+    "performance": {
+      "goals": 7,
+      "assists": 0,
+      "rating": 5.85,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.48,
+      "sprint_speed_kmh": 32.8,
+      "pass_accuracy": 72.7
+    }
+  },
+  "player:32": {
+    "identity": {
+      "name": "Yusuf Okafor",
+      "team": "Barcelona",
+      "position": "Midfielder",
+      "age": 24
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 2,
+      "rating": 6.68,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.22,
+      "sprint_speed_kmh": 32.5,
+      "pass_accuracy": 80.0
+    }
+  },
+  "player:171": {
+    "identity": {
+      "name": "Bruno Dubois",
+      "team": "Paris SG",
+      "position": "Defender",
+      "age": 19
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 2,
+      "rating": 7.42,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 8.5,
+      "sprint_speed_kmh": 29.2,
+      "pass_accuracy": 81.5
+    }
+  },
+  "player:74": {
+    "identity": {
+      "name": "Rafael Morales",
+      "team": "Liverpool",
+      "position": "Defender",
+      "age": 25
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 2,
+      "rating": 7.04,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 8.05,
+      "sprint_speed_kmh": 34.6,
+      "pass_accuracy": 73.9
+    }
+  },
+  "player:31": {
+    "identity": {
+      "name": "Samuel Muller",
+      "team": "Barcelona",
+      "position": "Midfielder",
+      "age": 21
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.28,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.14,
+      "sprint_speed_kmh": 27.4,
+      "pass_accuracy": 83.4
+    }
+  },
+  "player:174": {
+    "identity": {
+      "name": "Andres Kovac",
+      "team": "Paris SG",
+      "position": "Forward",
+      "age": 26
+    },
+    "performance": {
+      "goals": 10,
+      "assists": 5,
+      "rating": 7.09,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 8.81,
+      "sprint_speed_kmh": 29.7,
+      "pass_accuracy": 79.5
+    }
+  },
+  "player:34": {
+    "identity": {
+      "name": "Noah Kovac",
+      "team": "Manchester City",
+      "position": "Defender",
+      "age": 27
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 3,
+      "rating": 6.45,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.22,
+      "sprint_speed_kmh": 31.2,
+      "pass_accuracy": 87.3
+    }
+  },
+  "player:141": {
+    "identity": {
+      "name": "Bruno Fernandez",
+      "team": "Arsenal",
+      "position": "Midfielder",
+      "age": 27
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 11,
+      "rating": 6.82,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.09,
+      "sprint_speed_kmh": 31.9,
+      "pass_accuracy": 78.5
+    }
+  },
+  "player:156": {
+    "identity": {
+      "name": "Bruno Okafor",
+      "team": "Arsenal",
+      "position": "Midfielder",
+      "age": 21
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 7,
+      "rating": 7.9,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.78,
+      "sprint_speed_kmh": 34.7,
+      "pass_accuracy": 86.3
+    }
+  },
+  "player:165": {
+    "identity": {
+      "name": "Rafael Garcia",
+      "team": "Bayern Munich",
+      "position": "Forward",
+      "age": 26
+    },
+    "performance": {
+      "goals": 7,
+      "assists": 3,
+      "rating": 7.6,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.86,
+      "sprint_speed_kmh": 30.9,
+      "pass_accuracy": 74.9
+    }
+  },
+  "player:124": {
+    "identity": {
+      "name": "Yusuf Rossi",
+      "team": "Chelsea",
+      "position": "Forward",
+      "age": 26
+    },
+    "performance": {
+      "goals": 4,
+      "assists": 1,
+      "rating": 6.7,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.92,
+      "sprint_speed_kmh": 32.8,
+      "pass_accuracy": 88.0
+    }
+  },
+  "player:162": {
+    "identity": {
+      "name": "Mateo Larsson",
+      "team": "Napoli",
+      "position": "Defender",
+      "age": 23
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 4,
+      "rating": 6.06,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.78,
+      "sprint_speed_kmh": 35.0,
+      "pass_accuracy": 85.7
+    }
+  },
+  "player:101": {
+    "identity": {
+      "name": "Theo Santos",
+      "team": "Barcelona",
+      "position": "Forward",
+      "age": 24
+    },
+    "performance": {
+      "goals": 2,
+      "assists": 8,
+      "rating": 7.78,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 13.24,
+      "sprint_speed_kmh": 33.4,
+      "pass_accuracy": 83.5
+    }
+  },
+  "player:147": {
+    "identity": {
+      "name": "Andres Fernandez",
+      "team": "Napoli",
+      "position": "Midfielder",
+      "age": 20
+    },
+    "performance": {
+      "goals": 4,
+      "assists": 5,
+      "rating": 5.8,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.9,
+      "sprint_speed_kmh": 33.8,
+      "pass_accuracy": 83.1
+    }
+  },
+  "player:170": {
+    "identity": {
+      "name": "Rafael Weber",
+      "team": "Barcelona",
+      "position": "Forward",
+      "age": 26
+    },
+    "performance": {
+      "goals": 7,
+      "assists": 4,
+      "rating": 7.09,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.21,
+      "sprint_speed_kmh": 26.7,
+      "pass_accuracy": 77.4
+    }
+  },
+  "player:62": {
+    "identity": {
+      "name": "Leo Okafor",
+      "team": "Borussia Dortmund",
+      "position": "Defender",
+      "age": 22
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 0,
+      "rating": 5.35,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.25,
+      "sprint_speed_kmh": 33.1,
+      "pass_accuracy": 82.9
+    }
+  },
+  "player:11": {
+    "identity": {
+      "name": "Nico Muller",
+      "team": "Paris SG",
+      "position": "Midfielder",
+      "age": 21
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 7,
+      "rating": 6.66,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.52,
+      "sprint_speed_kmh": 28.8,
+      "pass_accuracy": 85.0
+    }
+  },
+  "player:179": {
+    "identity": {
+      "name": "Theo Kovac",
+      "team": "Barcelona",
+      "position": "Midfielder",
+      "age": 25
+    },
+    "performance": {
+      "goals": 2,
+      "assists": 3,
+      "rating": 7.18,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 11.43,
+      "sprint_speed_kmh": 31.9,
+      "pass_accuracy": 88.7
+    }
+  },
+  "player:72": {
+    "identity": {
+      "name": "Adrian Okafor",
+      "team": "Manchester City",
+      "position": "Midfielder",
+      "age": 17
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 2,
+      "rating": 7.25,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.64,
+      "sprint_speed_kmh": 30.3,
+      "pass_accuracy": 87.6
+    }
+  },
+  "player:94": {
+    "identity": {
+      "name": "Gabriel Adeyemi",
+      "team": "Liverpool",
+      "position": "Forward",
+      "age": 27
+    },
+    "performance": {
+      "goals": 17,
+      "assists": 0,
+      "rating": 6.55,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 12.39,
+      "sprint_speed_kmh": 27.9,
+      "pass_accuracy": 82.0
+    }
+  },
+  "player:119": {
+    "identity": {
+      "name": "Gabriel Hernandez",
+      "team": "Unknown",
+      "position": "Goalkeeper",
+      "age": 17
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.15,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.67,
+      "sprint_speed_kmh": 30.9,
+      "pass_accuracy": 78.9
+    }
+  },
+  "player:145": {
+    "identity": {
+      "name": "Tariq Morales",
+      "team": "Borussia Dortmund",
+      "position": "Forward",
+      "age": 24
+    },
+    "performance": {
+      "goals": 17,
+      "assists": 1,
+      "rating": 6.19,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 12.05,
+      "sprint_speed_kmh": 35.5,
+      "pass_accuracy": 83.4
+    }
+  },
+  "player:2": {
+    "identity": {
+      "name": "Theo Fernandez",
+      "team": "Bayern Munich",
+      "position": "Defender",
+      "age": 24
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 3,
+      "rating": 6.14,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.16,
+      "sprint_speed_kmh": 31.2,
+      "pass_accuracy": 79.9
+    }
+  },
+  "player:84": {
+    "identity": {
+      "name": "Mateo Okafor",
+      "team": "Real Madrid",
+      "position": "Goalkeeper",
+      "age": 27
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.67,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 6.16,
+      "sprint_speed_kmh": 31.7,
+      "pass_accuracy": 77.5
+    }
+  },
+  "player:178": {
+    "identity": {
+      "name": "Omar Ivanov",
+      "team": "Unknown",
+      "position": "Defender",
+      "age": 30
+    },
+    "performance": {
+      "goals": 3,
+      "assists": 1,
+      "rating": 7.1,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.34,
+      "sprint_speed_kmh": 34.2,
+      "pass_accuracy": 86.7
+    }
+  },
+  "player:88": {
+    "identity": {
+      "name": "Noah Larsson",
+      "team": "Manchester City",
+      "position": "Midfielder",
+      "age": 23
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 4,
+      "rating": 6.72,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.67,
+      "sprint_speed_kmh": 30.8,
+      "pass_accuracy": 80.6
+    }
+  },
+  "player:138": {
+    "identity": {
+      "name": "Andres Adeyemi",
+      "team": "Manchester City",
+      "position": "Forward",
+      "age": 29
+    },
+    "performance": {
+      "goals": 8,
+      "assists": 10,
+      "rating": 7.17,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.53,
+      "sprint_speed_kmh": 31.2,
+      "pass_accuracy": 91.6
+    }
+  },
+  "player:5": {
+    "identity": {
+      "name": "Omar Muller",
+      "team": "Napoli",
+      "position": "Defender",
+      "age": 21
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 3,
+      "rating": 7.29,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.81,
+      "sprint_speed_kmh": 30.9,
+      "pass_accuracy": 72.3
+    }
+  },
+  "player:39": {
+    "identity": {
+      "name": "Felix Weber",
+      "team": "Barcelona",
+      "position": "Defender",
+      "age": 27
+    },
+    "performance": {
+      "goals": 2,
+      "assists": 0,
+      "rating": 6.0,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.45,
+      "sprint_speed_kmh": 37.6,
+      "pass_accuracy": 65.7
+    }
+  },
+  "player:35": {
+    "identity": {
+      "name": "Omar Garcia",
+      "team": "Paris SG",
+      "position": "Defender",
+      "age": 26
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 2,
+      "rating": 7.12,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.83,
+      "sprint_speed_kmh": 32.6,
+      "pass_accuracy": 83.1
+    }
+  },
+  "player:153": {
+    "identity": {
+      "name": "Tariq Costa",
+      "team": "Atletico Madrid",
+      "position": "Forward",
+      "age": 28
+    },
+    "performance": {
+      "goals": 15,
+      "assists": 5,
+      "rating": 5.34,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.13,
+      "sprint_speed_kmh": 32.0,
+      "pass_accuracy": 99.0
+    }
+  },
+  "player:57": {
+    "identity": {
+      "name": "Yusuf Nakamura",
+      "team": "Inter Milan",
+      "position": "Forward",
+      "age": 25
+    },
+    "performance": {
+      "goals": 18,
+      "assists": 5,
+      "rating": 7.53,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 8.3,
+      "sprint_speed_kmh": 32.9,
+      "pass_accuracy": 82.3
+    }
+  },
+  "player:70": {
+    "identity": {
+      "name": "Malik Silva",
+      "team": "Arsenal",
+      "position": "Defender",
+      "age": 25
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 3,
+      "rating": 7.1,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.9,
+      "sprint_speed_kmh": 31.2,
+      "pass_accuracy": 95.8
+    }
+  },
+  "player:45": {
+    "identity": {
+      "name": "Gabriel Pereira",
+      "team": "Bayern Munich",
+      "position": "Midfielder",
+      "age": 26
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 0,
+      "rating": 6.79,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.56,
+      "sprint_speed_kmh": 33.7,
+      "pass_accuracy": 90.0
+    }
+  },
+  "player:20": {
+    "identity": {
+      "name": "Pablo Diallo",
+      "team": "Borussia Dortmund",
+      "position": "Midfielder",
+      "age": 20
+    },
+    "performance": {
+      "goals": 7,
+      "assists": 15,
+      "rating": 7.49,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 11.15,
+      "sprint_speed_kmh": 30.2,
+      "pass_accuracy": 82.1
+    }
+  },
+  "player:7": {
+    "identity": {
+      "name": "Lucas Silva",
+      "team": "Bayern Munich",
+      "position": "Defender",
+      "age": 23
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 3,
+      "rating": 6.75,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.16,
+      "sprint_speed_kmh": 33.0,
+      "pass_accuracy": 81.9
+    }
+  },
+  "player:56": {
+    "identity": {
+      "name": "Rafael Adeyemi",
+      "team": "Real Madrid",
+      "position": "Forward",
+      "age": 25
+    },
+    "performance": {
+      "goals": 5,
+      "assists": 0,
+      "rating": 6.7,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.54,
+      "sprint_speed_kmh": 31.8,
+      "pass_accuracy": 85.2
+    }
+  },
+  "player:76": {
+    "identity": {
+      "name": "Owen Kovac",
+      "team": "Napoli",
+      "position": "Midfielder",
+      "age": 22
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 9,
+      "rating": 7.13,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.97,
+      "sprint_speed_kmh": 31.6,
+      "pass_accuracy": 81.9
+    }
+  },
+  "player:1": {
+    "identity": {
+      "name": "Yusuf Santos",
+      "team": "Bayern Munich",
+      "position": "Defender",
+      "age": 20
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 4,
+      "rating": 5.95,
+      "performance_tier": "Below Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.46,
+      "sprint_speed_kmh": 31.2,
+      "pass_accuracy": 77.9
+    }
+  },
+  "player:136": {
+    "identity": {
+      "name": "Diego Garcia",
+      "team": "Atletico Madrid",
+      "position": "Forward",
+      "age": 26
+    },
+    "performance": {
+      "goals": 14,
+      "assists": 0,
+      "rating": 6.99,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.45,
+      "sprint_speed_kmh": 33.4,
+      "pass_accuracy": 89.6
+    }
+  },
+  "player:128": {
+    "identity": {
+      "name": "Omar Dubois",
+      "team": "Arsenal",
+      "position": "Goalkeeper",
+      "age": 25
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.45,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.77,
+      "sprint_speed_kmh": 27.6,
+      "pass_accuracy": 77.4
+    }
+  },
+  "player:69": {
+    "identity": {
+      "name": "Kevin Silva",
+      "team": "Arsenal",
+      "position": "Midfielder",
+      "age": 27
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 1,
+      "rating": 6.53,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 7.95,
+      "sprint_speed_kmh": 32.3,
+      "pass_accuracy": 82.1
+    }
+  },
+  "player:168": {
+    "identity": {
+      "name": "Jude Okafor",
+      "team": "Unknown",
+      "position": "Forward",
+      "age": 31
+    },
+    "performance": {
+      "goals": 16,
+      "assists": 8,
+      "rating": 7.74,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 10.98,
+      "sprint_speed_kmh": 24.7,
+      "pass_accuracy": 82.3
+    }
+  },
+  "player:137": {
+    "identity": {
+      "name": "Tariq Pereira",
+      "team": "Inter Milan",
+      "position": "Forward",
+      "age": 18
+    },
+    "performance": {
+      "goals": 25,
+      "assists": 0,
+      "rating": 7.51,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.27,
+      "sprint_speed_kmh": 32.1,
+      "pass_accuracy": 83.3
+    }
+  },
+  "player:43": {
+    "identity": {
+      "name": "Felix Fernandez",
+      "team": "Inter Milan",
+      "position": "Forward",
+      "age": 24
+    },
+    "performance": {
+      "goals": 12,
+      "assists": 7,
+      "rating": 7.23,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.69,
+      "sprint_speed_kmh": 30.8,
+      "pass_accuracy": 72.7
+    }
+  },
+  "player:111": {
+    "identity": {
+      "name": "Ivan Haas",
+      "team": "Inter Milan",
+      "position": "Defender",
+      "age": 18
+    },
+    "performance": {
+      "goals": 1,
+      "assists": 3,
+      "rating": 6.73,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 11.3,
+      "sprint_speed_kmh": 30.8,
+      "pass_accuracy": 73.4
+    }
+  },
+  "player:90": {
+    "identity": {
+      "name": "Enzo Fernandez",
+      "team": "Chelsea",
+      "position": "Forward",
+      "age": 21
+    },
+    "performance": {
+      "goals": 11,
+      "assists": 3,
+      "rating": 6.26,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.68,
+      "sprint_speed_kmh": 28.5,
+      "pass_accuracy": 76.5
+    }
+  },
+  "player:73": {
+    "identity": {
+      "name": "Bruno Muller",
+      "team": "Borussia Dortmund",
+      "position": "Defender",
+      "age": 24
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 7.41,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 9.01,
+      "sprint_speed_kmh": 28.5,
+      "pass_accuracy": 93.2
+    }
+  },
+  "player:24": {
+    "identity": {
+      "name": "Noah Santos",
+      "team": "Borussia Dortmund",
+      "position": "Defender",
+      "age": 21
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.73,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 9.51,
+      "sprint_speed_kmh": 30.9,
+      "pass_accuracy": 76.6
+    }
+  },
+  "player:143": {
+    "identity": {
+      "name": "Gabriel Kovac",
+      "team": "Barcelona",
+      "position": "Defender",
+      "age": 30
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 1,
+      "rating": 7.12,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 13.42,
+      "sprint_speed_kmh": 32.2,
+      "pass_accuracy": 79.7
+    }
+  },
+  "player:93": {
+    "identity": {
+      "name": "Mateo Haas",
+      "team": "Chelsea",
+      "position": "Goalkeeper",
+      "age": 28
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.33,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.56,
+      "sprint_speed_kmh": 27.5,
+      "pass_accuracy": 79.0
+    }
+  },
+  "player:104": {
+    "identity": {
+      "name": "Noah Costa",
+      "team": "Inter Milan",
+      "position": "Midfielder",
+      "age": 30
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 7.27,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 8.01,
+      "sprint_speed_kmh": 34.2,
+      "pass_accuracy": 83.5
+    }
+  },
+  "player:152": {
+    "identity": {
+      "name": "Gabriel Silva",
+      "team": "Inter Milan",
+      "position": "Defender",
+      "age": 19
+    },
+    "performance": {
+      "goals": 2,
+      "assists": 4,
+      "rating": 6.35,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.62,
+      "sprint_speed_kmh": 30.3,
+      "pass_accuracy": 71.7
+    }
+  },
+  "player:68": {
+    "identity": {
+      "name": "Yusuf Kovac",
+      "team": "Manchester City",
+      "position": "Forward",
+      "age": 28
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.95,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 8.63,
+      "sprint_speed_kmh": 27.8,
+      "pass_accuracy": 79.5
+    }
+  },
+  "player:26": {
+    "identity": {
+      "name": "Pablo Santos",
+      "team": "Paris SG",
+      "position": "Defender",
+      "age": 26
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 0,
+      "rating": 6.46,
+      "performance_tier": "Average"
+    },
+    "physical": {
+      "distance_covered_km": 10.67,
+      "sprint_speed_kmh": 30.4,
+      "pass_accuracy": 75.4
+    }
+  },
+  "player:176": {
+    "identity": {
+      "name": "Rico Dubois",
+      "team": "Atletico Madrid",
+      "position": "Goalkeeper",
+      "age": 27
+    },
+    "performance": {
+      "goals": 0,
+      "assists": 1,
+      "rating": 7.22,
+      "performance_tier": "Excellent"
+    },
+    "physical": {
+      "distance_covered_km": 12.84,
+      "sprint_speed_kmh": 31.3,
+      "pass_accuracy": 86.3
+    }
+  }
+}

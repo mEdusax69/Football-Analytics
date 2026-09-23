@@ -1,0 +1,181 @@
+player_id,player_name,team,position,age,matches_played,goals,assists,pass_accuracy,distance_covered_km,sprint_speed_kmh,tackles,yellow_cards,red_cards,market_value_million_eur,rating,goals_per_match,assists_per_match,goal_contributions,disciplinary_points,performance_tier
+129,Elias Pereira,Bayern Munich,Defender,24,25,0,1,84.8,10.42,30.5,0,3,0,12.6,7.47,0.0,0.04,1,3,Excellent
+140,Tariq Fernandez,Liverpool,Forward,21,13,5,4,81.1,12.32,27.4,3,2,0,1.3,6.92,0.385,0.308,9,2,Average
+79,Leo Fernandez,Real Madrid,Midfielder,26,19,0,7,74.3,9.2,29.5,3,1,0,16.6,5.87,0.0,0.368,7,1,Below Average
+107,Diego Santos,Inter Milan,Midfielder,31,30,9,0,90.7,10.06,34.1,8,2,0,15.2,6.56,0.3,0.0,9,2,Average
+134,Omar Okafor,Chelsea,Midfielder,24,37,5,11,73.2,9.34,30.1,5,3,0,4.2,7.75,0.135,0.297,16,3,Excellent
+23,Jude Costa,Napoli,Forward,21,12,2,1,85.2,10.3,33.5,5,5,0,14.1,8.11,0.167,0.083,3,5,Elite
+66,Malik Muller,Liverpool,Defender,22,25,2,1,88.5,11.42,26.3,7,2,0,3.3,8.0,0.08,0.04,3,2,Elite
+25,Noah Dubois,Napoli,Midfielder,27,33,3,0,91.5,10.04,34.1,0,1,0,7.9,7.71,0.091,0.0,3,1,Excellent
+113,Ivan Adeyemi,Arsenal,Defender,19,23,0,3,82.6,8.16,30.2,8,5,0,6.1,6.96,0.0,0.13,3,5,Average
+75,Theo Dubois,Arsenal,Forward,21,21,0,3,75.1,8.65,31.4,15,3,0,11.9,6.7,0.0,0.143,3,3,Average
+33,Owen Costa,Bayern Munich,Forward,17,24,5,5,83.2,9.87,30.6,1,4,0,26.6,6.4,0.208,0.208,10,4,Average
+142,Owen Fernandez,Manchester City,Defender,24,22,0,0,87.7,12.07,34.7,9,4,0,12.100000000000001,6.52,0.0,0.0,0,4,Average
+95,Tariq Hernandez,Atletico Madrid,Midfielder,20,19,3,7,75.0,10.17,29.3,15,0,0,54.9,6.2,0.158,0.368,10,0,Average
+110,Tariq Diallo,Manchester City,Defender,26,38,1,1,81.9,9.78,33.0,2,3,0,19.8,7.34,0.026,0.026,2,3,Excellent
+103,Malik Fernandez,Arsenal,Forward,26,23,6,4,88.2,8.84,31.0,14,4,0,21.2,7.02,0.261,0.174,10,4,Excellent
+126,Hugo Weber,Real Madrid,Defender,21,20,0,1,79.6,10.44,34.0,9,4,0,3.9,8.03,0.0,0.05,1,4,Elite
+149,Nico Costa,Real Madrid,Midfielder,19,30,7,2,87.7,12.35,28.2,0,4,0,22.1,7.0,0.233,0.067,9,4,Excellent
+127,Owen Rossi,Manchester City,Midfielder,28,27,5,12,99.0,10.75,29.7,6,1,0,2.7,6.42,0.185,0.444,17,1,Average
+122,Omar Morales,Liverpool,Midfielder,23,19,2,2,82.2,10.13,35.1,4,5,0,2.4,6.74,0.105,0.105,4,5,Average
+144,Gabriel Morales,Chelsea,Defender,23,25,0,1,82.9,8.64,32.8,24,3,0,27.5,6.67,0.0,0.04,1,3,Average
+158,Enzo Silva,Borussia Dortmund,Midfielder,33,23,5,6,84.8,10.61,29.9,14,7,0,25.6,7.01,0.217,0.261,11,7,Excellent
+36,Jude Morales,Arsenal,Defender,27,29,0,1,86.3,12.59,33.1,34,5,0,9.4,6.35,0.0,0.034,1,5,Average
+109,Pablo Morales,Liverpool,Goalkeeper,23,26,0,0,87.0,9.59,32.3,4,2,1,5.8,7.45,0.0,0.0,0,4,Excellent
+114,Hugo Pereira,Real Madrid,Forward,32,23,6,0,69.4,7.98,31.7,10,5,0,15.3,6.43,0.261,0.0,6,5,Average
+86,Samuel Dubois,Arsenal,Midfielder,20,22,2,10,78.5,8.56,34.0,3,2,0,9.5,6.79,0.091,0.455,12,2,Average
+81,Lucas Okafor,Bayern Munich,Forward,20,21,15,4,98.2,10.75,31.5,3,4,0,6.6,6.0,0.714,0.19,19,4,Average
+151,Elias Muller,Barcelona,Midfielder,31,35,0,14,78.5,10.57,31.7,6,1,0,7.2,6.28,0.0,0.4,14,1,Average
+167,Hugo Haas,Real Madrid,Defender,25,29,1,1,93.3,10.7,30.1,29,1,0,23.9,6.76,0.034,0.034,2,1,Average
+58,Felix Larsson,Arsenal,Forward,19,20,9,7,74.8,10.39,29.2,13,0,0,3.4,6.46,0.45,0.35,16,0,Average
+169,Rico Adeyemi,Paris SG,Midfielder,25,29,7,2,82.3,13.79,34.0,2,2,0,29.4,7.76,0.241,0.069,9,2,Excellent
+14,Ivan Ivanov,Liverpool,Midfielder,17,27,0,5,76.9,10.47,29.6,6,1,0,73.7,6.39,0.0,0.185,5,1,Average
+92,Jude Dubois,Napoli,Defender,21,31,3,3,84.3,9.24,28.0,18,4,0,33.2,6.92,0.097,0.097,6,4,Average
+67,Adrian Kovac,Unknown,Forward,24,31,19,0,92.3,12.13,29.4,12,3,1,18.0,6.63,0.613,0.0,19,5,Average
+117,Rico Morales,Napoli,Forward,24,30,19,0,91.1,7.87,33.6,19,2,0,10.2,7.27,0.633,0.0,19,2,Excellent
+175,Nico Hernandez,Arsenal,Forward,21,16,9,6,77.5,10.84,25.8,1,1,0,12.3,6.36,0.562,0.375,15,1,Average
+132,Kevin Adeyemi,Liverpool,Midfielder,20,32,7,13,85.1,10.23,32.7,14,1,0,32.5,6.35,0.219,0.406,20,1,Average
+160,Mateo Ivanov,Unknown,Defender,22,29,1,3,82.2,11.3,23.7,10,4,0,12.4,7.15,0.034,0.103,4,4,Excellent
+46,Malik Dubois,Inter Milan,Midfielder,26,30,8,1,78.7,8.8,35.6,19,4,0,38.0,7.89,0.267,0.033,9,4,Excellent
+96,Leo Santos,Atletico Madrid,Forward,26,31,19,0,87.6,9.6,28.8,0,6,0,11.9,6.59,0.613,0.0,19,6,Average
+37,Nico Dubois,Manchester City,Defender,25,25,1,0,79.2,10.91,34.1,23,2,0,14.5,7.71,0.04,0.0,1,2,Excellent
+115,Felix Rossi,Bayern Munich,Midfielder,27,32,5,4,88.4,10.36,26.8,0,6,0,20.2,6.16,0.156,0.125,9,6,Average
+52,Victor Pereira,Liverpool,Forward,29,12,6,4,82.6,11.69,30.6,8,6,0,9.2,6.63,0.5,0.333,10,6,Average
+61,Andres Weber,Arsenal,Forward,26,22,13,6,85.2,11.05,28.6,8,0,0,41.4,7.09,0.591,0.273,19,0,Excellent
+97,Leo Costa,Arsenal,Defender,26,38,4,1,82.9,10.4,26.6,26,4,0,11.8,6.1,0.105,0.026,5,4,Average
+131,Andres Costa,Napoli,Midfielder,34,16,4,5,83.6,12.27,31.7,0,5,0,24.4,6.63,0.25,0.312,9,5,Average
+47,Diego Morales,Napoli,Defender,24,36,4,0,85.6,9.98,33.0,26,0,0,1.6,6.59,0.111,0.0,4,0,Average
+172,Andres Garcia,Real Madrid,Midfielder,31,21,7,8,85.4,10.72,32.0,0,5,0,0.7,5.92,0.333,0.381,15,5,Below Average
+133,Felix Muller,Real Madrid,Midfielder,32,38,8,24,84.5,11.28,34.2,12,2,0,17.6,7.14,0.211,0.632,32,2,Excellent
+83,Mateo Fernandez,Paris SG,Forward,23,19,8,5,82.9,11.19,26.1,3,4,1,21.3,7.4,0.421,0.263,13,6,Excellent
+12,Kai Silva,Liverpool,Midfielder,23,38,8,4,74.5,10.88,30.4,19,0,0,20.6,6.76,0.211,0.105,12,0,Average
+100,Owen Silva,Manchester City,Defender,31,27,1,1,98.5,9.03,32.5,4,3,0,5.1,6.31,0.037,0.037,2,3,Average
+64,Kevin Garcia,Borussia Dortmund,Forward,23,20,10,1,94.7,10.7,32.0,9,3,0,44.1,6.92,0.5,0.05,11,3,Average
+28,Felix Morales,Bayern Munich,Midfielder,24,14,1,0,88.4,7.16,36.1,0,3,0,51.9,7.08,0.071,0.0,1,3,Excellent
+102,Victor Kovac,Barcelona,Defender,23,24,0,1,92.2,11.38,30.1,27,1,0,17.2,6.22,0.0,0.042,1,1,Average
+82,Elias Adeyemi,Liverpool,Defender,33,14,1,1,83.8,10.2,30.0,10,3,0,17.1,6.99,0.071,0.071,2,3,Average
+150,Malik Santos,Liverpool,Defender,25,19,1,1,86.9,10.29,32.8,5,4,0,25.9,6.61,0.053,0.053,2,4,Average
+112,Kevin Fernandez,Bayern Munich,Midfielder,29,37,1,15,75.2,10.24,30.4,0,6,0,15.1,5.48,0.027,0.405,16,6,Below Average
+38,Nico Nakamura,Liverpool,Defender,26,6,0,1,75.5,14.0,31.5,0,1,0,9.5,7.82,0.0,0.167,1,1,Excellent
+118,Rafael Hernandez,Liverpool,Midfielder,19,33,4,5,89.8,8.54,26.9,22,4,0,13.5,6.51,0.121,0.152,9,4,Average
+130,Theo Larsson,Paris SG,Defender,29,21,0,2,79.4,13.15,30.3,15,3,0,6.2,7.48,0.0,0.095,2,3,Excellent
+29,Elias Ivanov,Napoli,Forward,25,13,1,2,83.2,7.2,32.3,0,1,0,4.7,6.06,0.077,0.154,3,1,Average
+41,Omar Fernandez,Manchester City,Defender,21,34,0,0,80.2,8.62,30.6,20,5,0,4.1,6.64,0.0,0.0,0,5,Average
+89,Jude Fernandez,Borussia Dortmund,Midfielder,28,33,4,9,82.1,9.44,31.9,0,7,0,6.6,6.71,0.121,0.273,13,7,Average
+146,Nico Silva,Real Madrid,Forward,27,13,9,3,79.4,10.4,26.6,5,3,0,12.3,6.71,0.692,0.231,12,3,Average
+85,Rico Haas,Liverpool,Goalkeeper,30,19,0,0,79.4,9.21,31.8,1,1,1,20.0,7.51,0.0,0.0,0,3,Excellent
+50,Pablo Adeyemi,Unknown,Forward,19,22,15,4,87.7,11.07,34.2,13,3,1,19.8,6.92,0.682,0.182,19,5,Average
+6,Ivan Dubois,Atletico Madrid,Forward,28,26,8,7,82.7,11.56,29.2,4,4,0,3.8,6.55,0.308,0.269,15,4,Average
+18,Hugo Garcia,Arsenal,Midfielder,26,31,6,14,74.8,10.49,32.2,13,4,0,9.2,6.73,0.194,0.452,20,4,Average
+105,Kai Kovac,Liverpool,Forward,27,17,12,3,84.1,10.71,29.5,6,1,0,6.7,6.49,0.706,0.176,15,1,Average
+159,Jude Rossi,Atletico Madrid,Forward,27,21,8,5,69.3,12.06,31.1,2,0,0,1.4,6.26,0.381,0.238,13,0,Average
+166,Rafael Okafor,Real Madrid,Midfielder,25,32,5,9,79.5,12.39,29.0,24,4,0,23.6,7.33,0.156,0.281,14,4,Excellent
+177,Rafael Ivanov,Manchester City,Midfielder,20,7,2,1,84.0,10.14,29.9,0,2,0,18.1,6.53,0.286,0.143,3,2,Average
+63,Marco Weber,Napoli,Forward,21,23,10,0,92.5,11.43,30.4,6,2,0,5.5,6.63,0.435,0.0,10,2,Average
+65,Nico Garcia,Atletico Madrid,Defender,31,20,2,3,98.6,9.61,30.1,0,3,0,21.2,5.6,0.1,0.15,5,3,Below Average
+27,Tariq Nakamura,Real Madrid,Midfielder,35,16,3,7,69.7,8.54,25.9,2,6,0,25.7,5.78,0.188,0.438,10,6,Below Average
+87,Jude Garcia,Borussia Dortmund,Defender,19,25,0,3,82.8,8.84,34.0,13,1,0,38.5,6.28,0.0,0.12,3,1,Average
+42,Diego Silva,Barcelona,Defender,20,17,0,3,79.7,9.57,25.7,2,5,0,50.3,7.76,0.0,0.176,3,5,Excellent
+53,Ivan Hernandez,Napoli,Midfielder,18,29,3,3,77.5,11.32,31.7,8,5,0,8.8,7.16,0.103,0.103,6,5,Excellent
+163,Owen Dubois,Arsenal,Midfielder,21,36,7,16,77.4,11.4,28.3,20,4,0,20.4,5.98,0.194,0.444,23,4,Below Average
+8,Omar Costa,Bayern Munich,Midfielder,17,35,14,17,80.5,9.24,32.8,2,5,0,27.4,7.06,0.4,0.486,31,5,Excellent
+164,Adrian Rossi,Real Madrid,Forward,24,34,21,10,83.2,9.49,26.8,6,7,0,9.1,7.78,0.618,0.294,31,7,Excellent
+123,Malik Diallo,Atletico Madrid,Forward,28,25,11,0,88.7,9.1,28.3,14,1,0,27.4,8.14,0.44,0.0,11,1,Elite
+71,Ivan Diallo,Paris SG,Midfielder,29,22,4,2,81.8,13.0,33.4,8,1,0,36.4,7.51,0.182,0.091,6,1,Excellent
+157,Adrian Diallo,Manchester City,Goalkeeper,19,19,0,0,96.6,7.98,26.3,16,3,0,19.1,7.13,0.0,0.0,0,3,Excellent
+98,Victor Dubois,Inter Milan,Forward,17,24,11,3,79.6,11.22,30.6,3,1,0,13.2,6.23,0.458,0.125,14,1,Average
+9,Lucas Diallo,Atletico Madrid,Midfielder,22,32,6,0,100.0,11.5,31.9,15,3,1,2.9,6.87,0.188,0.0,6,5,Average
+99,Tariq Santos,Arsenal,Midfielder,21,20,4,6,80.8,10.38,29.8,0,2,0,27.3,7.01,0.2,0.3,10,2,Excellent
+80,Elias Larsson,Barcelona,Midfielder,24,11,0,0,81.9,10.36,33.2,0,3,0,3.3,5.71,0.0,0.0,0,3,Below Average
+55,Jude Hernandez,Bayern Munich,Forward,21,26,13,7,96.1,9.95,29.0,0,2,0,12.3,6.49,0.5,0.269,20,2,Average
+116,Mateo Garcia,Bayern Munich,Midfielder,18,18,8,3,68.3,11.23,33.1,12,4,0,10.6,7.66,0.444,0.167,11,4,Excellent
+30,Pablo Weber,Chelsea,Forward,25,25,6,5,84.2,10.15,31.1,8,1,0,56.7,7.04,0.24,0.2,11,1,Excellent
+4,Owen Garcia,Manchester City,Midfielder,24,27,0,2,68.9,8.29,32.6,0,7,0,40.1,7.54,0.0,0.074,2,7,Excellent
+40,Kevin Okafor,Inter Milan,Forward,32,18,5,4,79.3,8.47,28.3,8,3,0,4.0,6.67,0.278,0.222,9,3,Average
+125,Marco Garcia,Barcelona,Defender,22,24,0,1,86.3,9.55,30.5,26,1,0,13.5,5.84,0.0,0.042,1,1,Below Average
+78,Bruno Adeyemi,Borussia Dortmund,Midfielder,19,25,0,3,85.9,8.53,32.8,0,1,0,60.6,7.35,0.0,0.12,3,1,Excellent
+154,Pablo Haas,Barcelona,Defender,23,35,0,5,80.0,9.81,33.0,24,3,0,14.7,5.8,0.0,0.143,5,3,Below Average
+139,Malik Garcia,Atletico Madrid,Midfielder,24,18,4,0,69.1,12.45,29.0,9,3,0,21.0,7.82,0.222,0.0,4,3,Excellent
+91,Pablo Larsson,Chelsea,Midfielder,20,21,3,5,81.7,13.06,28.0,13,4,1,18.8,7.76,0.143,0.238,8,6,Excellent
+161,Marco Kovac,Atletico Madrid,Goalkeeper,24,28,0,0,76.9,10.31,32.1,21,4,0,47.6,7.22,0.0,0.0,0,4,Excellent
+44,Elias Morales,Liverpool,Defender,20,31,1,6,85.1,11.95,32.1,15,1,0,5.2,7.21,0.032,0.194,7,1,Excellent
+135,Noah Rossi,Inter Milan,Forward,24,27,14,12,83.2,9.66,32.1,8,2,0,34.2,6.33,0.519,0.444,26,2,Average
+49,Theo Ivanov,Manchester City,Midfielder,18,31,3,10,83.3,9.73,35.9,7,4,0,2.8,7.49,0.097,0.323,13,4,Excellent
+180,Kevin Santos,Real Madrid,Midfielder,24,24,0,5,70.6,11.89,32.9,10,3,0,52.9,7.18,0.0,0.208,5,3,Excellent
+60,Samuel Larsson,Chelsea,Midfielder,24,14,1,5,73.4,12.52,33.2,2,1,0,4.4,7.67,0.071,0.357,6,1,Excellent
+16,Noah Weber,Atletico Madrid,Forward,17,28,18,0,79.7,9.54,29.4,23,5,0,19.4,6.36,0.643,0.0,18,5,Average
+54,Nico Kovac,Bayern Munich,Goalkeeper,23,23,0,0,90.4,10.34,27.3,10,5,0,122.5,5.45,0.0,0.0,0,5,Below Average
+21,Owen Haas,Manchester City,Defender,28,26,3,3,85.5,10.28,31.2,3,3,0,9.5,7.44,0.115,0.115,6,3,Excellent
+15,Kevin Nakamura,Napoli,Goalkeeper,26,8,0,0,78.4,11.89,30.6,1,2,1,4.2,6.02,0.0,0.0,0,4,Average
+121,Omar Nakamura,Manchester City,Midfielder,27,26,6,16,89.9,9.57,27.8,6,5,0,8.1,6.98,0.231,0.615,22,5,Average
+77,Kai Larsson,Real Madrid,Defender,19,37,0,0,77.0,11.45,30.3,37,2,0,4.6,6.99,0.0,0.0,0,2,Average
+10,Felix Kovac,Liverpool,Midfielder,24,25,6,2,82.8,10.35,33.3,4,8,0,1.0,6.32,0.24,0.08,8,8,Average
+106,Mateo Kovac,Bayern Munich,Forward,19,26,8,0,89.6,11.23,29.6,7,1,0,34.4,6.44,0.308,0.0,8,1,Average
+108,Nico Haas,Manchester City,Defender,27,35,0,2,84.1,10.6,32.9,16,2,0,4.8,7.58,0.0,0.057,2,2,Excellent
+148,Rico Larsson,Bayern Munich,Midfielder,26,24,0,7,72.6,10.72,29.0,6,6,0,12.1,6.37,0.0,0.292,7,6,Average
+13,Lucas Kovac,Chelsea,Defender,29,21,0,0,87.0,10.33,32.6,24,3,0,18.6,7.14,0.0,0.0,0,3,Excellent
+17,Lucas Nakamura,Liverpool,Goalkeeper,19,22,0,1,81.9,8.89,27.8,5,4,0,14.2,8.21,0.0,0.045,1,4,Elite
+48,Rico Okafor,Manchester City,Goalkeeper,25,22,0,0,83.6,10.81,32.4,6,3,0,4.4,6.89,0.0,0.0,0,3,Average
+59,Samuel Weber,Liverpool,Goalkeeper,26,20,0,0,78.0,11.22,32.7,5,2,0,28.5,6.5,0.0,0.0,0,2,Average
+173,Kai Hernandez,Inter Milan,Defender,22,37,3,3,94.1,10.3,33.7,22,5,0,16.6,6.67,0.081,0.081,6,5,Average
+155,Felix Santos,Unknown,Forward,27,21,8,5,82.6,7.09,30.4,0,3,0,15.8,6.9,0.381,0.238,13,3,Average
+120,Adrian Santos,Real Madrid,Midfielder,26,25,0,14,83.8,9.89,34.1,0,1,0,6.1,5.61,0.0,0.56,14,1,Below Average
+22,Lucas Garcia,Atletico Madrid,Forward,25,18,7,4,92.3,11.4,30.6,4,0,0,5.5,6.99,0.389,0.222,11,0,Average
+19,Marco Nakamura,Atletico Madrid,Goalkeeper,28,20,0,0,79.5,11.53,34.6,7,2,0,22.7,5.73,0.0,0.0,0,2,Below Average
+51,Tariq Ivanov,Liverpool,Midfielder,24,22,6,4,91.5,6.4,34.4,15,4,0,49.4,5.66,0.273,0.182,10,4,Below Average
+3,Hugo Santos,Paris SG,Forward,28,14,7,0,72.7,10.48,32.8,4,1,0,5.4,5.85,0.5,0.0,7,1,Below Average
+32,Yusuf Okafor,Barcelona,Midfielder,24,7,1,2,80.0,8.22,32.5,0,1,0,13.2,6.68,0.143,0.286,3,1,Average
+171,Bruno Dubois,Paris SG,Defender,19,13,1,2,81.5,8.5,29.2,12,1,0,11.7,7.42,0.077,0.154,3,1,Excellent
+74,Rafael Morales,Liverpool,Defender,25,33,0,2,73.9,8.05,34.6,0,6,0,10.7,7.04,0.0,0.061,2,6,Excellent
+31,Samuel Muller,Barcelona,Midfielder,21,22,0,0,83.4,9.14,27.4,1,3,0,5.1,6.28,0.0,0.0,0,3,Average
+174,Andres Kovac,Paris SG,Forward,26,22,10,5,79.5,8.81,29.7,14,1,0,8.3,7.09,0.455,0.227,15,1,Excellent
+34,Noah Kovac,Manchester City,Defender,27,25,3,3,87.3,10.22,31.2,13,4,0,20.7,6.45,0.12,0.12,6,4,Average
+141,Bruno Fernandez,Arsenal,Midfielder,27,33,0,11,78.5,10.09,31.9,3,0,0,7.3,6.82,0.0,0.333,11,0,Average
+156,Bruno Okafor,Arsenal,Midfielder,21,35,0,7,86.3,10.78,34.7,11,3,0,36.9,7.9,0.0,0.2,7,3,Excellent
+165,Rafael Garcia,Bayern Munich,Forward,26,11,7,3,74.9,9.86,30.9,2,4,0,23.6,7.6,0.636,0.273,10,4,Excellent
+124,Yusuf Rossi,Chelsea,Forward,26,16,4,1,88.0,10.92,32.8,6,5,0,7.9,6.7,0.25,0.062,5,5,Average
+162,Mateo Larsson,Napoli,Defender,23,18,0,4,85.7,10.78,35.0,12,3,0,19.1,6.06,0.0,0.222,4,3,Average
+101,Theo Santos,Barcelona,Forward,24,20,2,8,83.5,13.24,33.4,9,2,0,9.1,7.78,0.1,0.4,10,2,Excellent
+147,Andres Fernandez,Napoli,Midfielder,20,33,4,5,83.1,10.9,33.8,24,3,0,8.5,5.8,0.121,0.152,9,3,Below Average
+170,Rafael Weber,Barcelona,Forward,26,26,7,4,77.4,9.21,26.7,4,1,0,12.7,7.09,0.269,0.154,11,1,Excellent
+62,Leo Okafor,Borussia Dortmund,Defender,22,38,1,0,82.9,9.25,33.1,14,2,0,9.0,5.35,0.026,0.0,1,2,Below Average
+11,Nico Muller,Paris SG,Midfielder,21,14,3,7,85.0,11.52,28.8,4,2,1,15.1,6.66,0.214,0.5,10,4,Average
+179,Theo Kovac,Barcelona,Midfielder,25,30,2,3,88.7,11.43,31.9,1,2,0,11.0,7.18,0.067,0.1,5,2,Excellent
+72,Adrian Okafor,Manchester City,Midfielder,17,31,5,2,87.6,9.64,30.3,3,4,0,9.7,7.25,0.161,0.065,7,4,Excellent
+94,Gabriel Adeyemi,Liverpool,Forward,27,23,17,0,82.0,12.39,27.9,0,2,0,12.3,6.55,0.739,0.0,17,2,Average
+119,Gabriel Hernandez,Unknown,Goalkeeper,17,12,0,0,78.9,8.67,30.9,1,4,0,35.3,6.15,0.0,0.0,0,4,Average
+145,Tariq Morales,Borussia Dortmund,Forward,24,27,17,1,83.4,12.05,35.5,7,4,0,4.9,6.19,0.63,0.037,18,4,Average
+2,Theo Fernandez,Bayern Munich,Defender,24,26,1,3,79.9,10.16,31.2,21,1,0,27.1,6.14,0.038,0.115,4,1,Average
+84,Mateo Okafor,Real Madrid,Goalkeeper,27,24,0,0,77.5,6.16,31.7,8,3,0,6.6,6.67,0.0,0.0,0,3,Average
+178,Omar Ivanov,Unknown,Defender,30,29,3,1,86.7,10.34,34.2,10,1,1,26.3,7.1,0.103,0.034,4,3,Excellent
+88,Noah Larsson,Manchester City,Midfielder,23,32,5,4,80.6,9.67,30.8,10,5,0,33.4,6.72,0.156,0.125,9,5,Average
+138,Andres Adeyemi,Manchester City,Forward,29,26,8,10,91.6,10.53,31.2,0,3,0,13.4,7.17,0.308,0.385,18,3,Excellent
+5,Omar Muller,Napoli,Defender,21,30,0,3,72.3,9.81,30.9,27,3,0,58.0,7.29,0.0,0.1,3,3,Excellent
+39,Felix Weber,Barcelona,Defender,27,25,2,0,65.7,10.45,37.6,13,6,0,14.0,6.0,0.08,0.0,2,6,Average
+35,Omar Garcia,Paris SG,Defender,26,38,0,2,83.1,10.83,32.6,31,5,0,11.8,7.12,0.0,0.053,2,5,Excellent
+153,Tariq Costa,Atletico Madrid,Forward,28,22,15,5,99.0,10.13,32.0,2,4,0,6.5,5.34,0.682,0.227,20,4,Below Average
+57,Yusuf Nakamura,Inter Milan,Forward,25,24,18,5,82.3,8.3,32.9,11,3,1,94.3,7.53,0.75,0.208,23,5,Excellent
+70,Malik Silva,Arsenal,Defender,25,16,0,3,95.8,9.9,31.2,11,2,0,7.0,7.1,0.0,0.188,3,2,Excellent
+45,Gabriel Pereira,Bayern Munich,Midfielder,26,28,5,0,90.0,9.56,33.7,18,5,0,7.4,6.79,0.179,0.0,5,5,Average
+20,Pablo Diallo,Borussia Dortmund,Midfielder,20,30,7,15,82.1,11.15,30.2,11,4,0,12.0,7.49,0.233,0.5,22,4,Excellent
+7,Lucas Silva,Bayern Munich,Defender,23,19,0,3,81.9,10.16,33.0,4,3,1,9.0,6.75,0.0,0.158,3,5,Average
+56,Rafael Adeyemi,Real Madrid,Forward,25,34,5,0,85.2,10.54,31.8,19,7,0,19.7,6.7,0.147,0.0,5,7,Average
+76,Owen Kovac,Napoli,Midfielder,22,26,0,9,81.9,10.97,31.6,18,0,0,15.0,7.13,0.0,0.346,9,0,Excellent
+1,Yusuf Santos,Bayern Munich,Defender,20,26,1,4,77.9,9.46,31.2,7,3,0,5.9,5.95,0.038,0.154,5,3,Below Average
+136,Diego Garcia,Atletico Madrid,Forward,26,36,14,0,89.6,10.45,33.4,9,3,0,6.8,6.99,0.389,0.0,14,3,Average
+128,Omar Dubois,Arsenal,Goalkeeper,25,30,0,0,77.4,9.77,27.6,0,6,1,17.1,6.45,0.0,0.0,0,8,Average
+69,Kevin Silva,Arsenal,Midfielder,27,24,1,1,82.1,7.95,32.3,0,6,1,10.1,6.53,0.042,0.042,2,8,Average
+168,Jude Okafor,Unknown,Forward,31,30,16,8,82.3,10.98,24.7,5,2,0,65.4,7.74,0.533,0.267,24,2,Excellent
+137,Tariq Pereira,Inter Milan,Forward,18,27,25,0,83.3,9.27,32.1,7,3,0,47.1,7.51,0.926,0.0,25,3,Excellent
+43,Felix Fernandez,Inter Milan,Forward,24,22,12,7,72.7,9.69,30.8,9,1,0,6.7,7.23,0.545,0.318,19,1,Excellent
+111,Ivan Haas,Inter Milan,Defender,18,20,1,3,73.4,11.3,30.8,1,2,0,4.9,6.73,0.05,0.15,4,2,Average
+90,Enzo Fernandez,Chelsea,Forward,21,16,11,3,76.5,9.68,28.5,3,4,0,16.6,6.26,0.688,0.188,14,4,Average
+73,Bruno Muller,Borussia Dortmund,Defender,24,24,0,0,93.2,9.01,28.5,0,2,0,59.0,7.41,0.0,0.0,0,2,Excellent
+24,Noah Santos,Borussia Dortmund,Defender,21,17,0,0,76.6,9.51,30.9,6,2,0,3.2,6.73,0.0,0.0,0,2,Average
+143,Gabriel Kovac,Barcelona,Defender,30,19,0,1,79.7,13.42,32.2,10,2,0,6.3,7.12,0.0,0.053,1,2,Excellent
+93,Mateo Haas,Chelsea,Goalkeeper,28,16,0,0,79.0,10.56,27.5,8,3,0,49.5,6.33,0.0,0.0,0,3,Average
+104,Noah Costa,Inter Milan,Midfielder,30,1,0,0,83.5,8.01,34.2,1,0,0,15.9,7.27,0.0,0.0,0,0,Excellent
+152,Gabriel Silva,Inter Milan,Defender,19,21,2,4,71.7,8.62,30.3,18,3,0,32.5,6.35,0.095,0.19,6,3,Average
+68,Yusuf Kovac,Manchester City,Forward,28,1,0,0,79.5,8.63,27.8,0,3,0,2.0,6.95,0.0,0.0,0,3,Average
+26,Pablo Santos,Paris SG,Defender,26,18,0,0,75.4,10.67,30.4,0,4,0,10.6,6.46,0.0,0.0,0,4,Average
+176,Rico Dubois,Atletico Madrid,Goalkeeper,27,31,0,1,86.3,12.84,31.3,6,4,0,23.3,7.22,0.0,0.032,1,4,Excellent
